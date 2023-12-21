@@ -1,0 +1,60 @@
+* {
+    outline: none;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-image: url("lesson2img.jpg");
+}
+
+nav {
+    background-color: white;
+}
+
+.text {
+    text-align: center;
+    height: 400px;
+}
+
+#button {
+    border-radius: 30px;
+    border: none;
+    background-color: rgb(242, 182, 72);
+    color: white;
+    padding: 5px 10px;
+}
+
+#button1 {
+    border-radius: 10px;
+    border: 1px solid rgb(63, 63, 212);
+    background-color: rgb(238, 227, 227);
+    color: rgb(63, 63, 212);
+    padding: 5px 10px;
+}
+
+#button2 {
+    border-radius: 9px;
+    border: none;
+    background-color: rgb(63, 63, 212);
+    color: white;
+    padding: 5px 10px;
+}
+
+#button3 {
+    color: orange;
+    border: 1px solid orange;
+    background-color: white;
+    padding: 10px 15px;
+}
+
+#button4 {
+    color: white;
+    border: none;
+    background-color: orange;
+    padding: 10px 15px;
+}
+
+h1{
+    text-align: center;
+}
